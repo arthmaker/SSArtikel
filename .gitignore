@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Runtime storage
+storage/raw/*.txt
+storage/parsed/*.html
+storage/output/*
+storage/logs/*.log
+storage/runs/*.json
+storage/titles/latest_titles.json
+
+# Config local
+config/config.json
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
