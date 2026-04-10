@@ -1,0 +1,10 @@
+{
+  "chatgpt_url": "https://chatgpt.com/",
+  "chrome_executable_path": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+  "chrome_user_data_dir": "C:/Users/YOUR_WINDOWS_USER/AppData/Local/Google/Chrome/User Data",
+  "chrome_profile": "Default",
+  "timeout_ms": 45000,
+  "response_timeout_ms": 360000,
+  "output_root": "storage",
+  "prompt_template": "templates/base_prompt.txt"
+}

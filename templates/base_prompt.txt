@@ -1,0 +1,5 @@
+Buat 2 artikel HTML lengkap berdasarkan 2 judul di atas.
+Setiap artikel HARUS ada di dalam code block markdown terpisah dengan format ```html ... ```.
+Jumlah code block HTML harus tepat 2.
+Gunakan struktur HTML rapi (judul, intro, subjudul, paragraf, penutup).
+Jangan tambahkan code block lain selain 2 code block HTML tersebut.
